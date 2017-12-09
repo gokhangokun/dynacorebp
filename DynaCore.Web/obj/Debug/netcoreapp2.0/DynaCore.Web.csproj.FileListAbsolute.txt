@@ -1,10 +1,10 @@
-/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.csproj.CoreCompileInputs.cache
-/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.AssemblyInfoInputs.cache
-/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.AssemblyInfo.cs
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/bin/Debug/netcoreapp2.0/DynaCore.Web.deps.json
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/bin/Debug/netcoreapp2.0/DynaCore.Web.dll
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/bin/Debug/netcoreapp2.0/DynaCore.Web.pdb
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/bin/Debug/netcoreapp2.0/DynaCore.dll
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/bin/Debug/netcoreapp2.0/DynaCore.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.csproj.CoreCompileInputs.cache
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.AssemblyInfoInputs.cache
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.AssemblyInfo.cs
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.dll
 /Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/DynaCore.Web/obj/Debug/netcoreapp2.0/DynaCore.Web.pdb

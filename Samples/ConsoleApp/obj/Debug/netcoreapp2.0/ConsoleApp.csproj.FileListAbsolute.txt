@@ -1,0 +1,16 @@
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/nlog.config
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.deps.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.runtimeconfig.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.runtimeconfig.dev.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/DynaCore.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/DynaCore.NLog.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/DynaCore.NLog.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/bin/Debug/netcoreapp2.0/DynaCore.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfo.cs
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.pdb

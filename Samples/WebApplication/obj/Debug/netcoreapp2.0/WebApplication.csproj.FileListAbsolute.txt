@@ -1,0 +1,17 @@
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.csproj.CoreCompileInputs.cache
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.AssemblyInfoInputs.cache
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.AssemblyInfo.cs
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/nlog.config
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/WebApplication.deps.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/WebApplication.runtimeconfig.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/WebApplication.runtimeconfig.dev.json
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/WebApplication.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/WebApplication.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/DynaCore.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/DynaCore.NLog.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/DynaCore.Web.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/DynaCore.NLog.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/DynaCore.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/bin/Debug/netcoreapp2.0/DynaCore.Web.pdb
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.dll
+/Users/gokhangokun/Documents/GIT/Boilerplates/netcore/DynaCore/Samples/WebApplication/obj/Debug/netcoreapp2.0/WebApplication.pdb
